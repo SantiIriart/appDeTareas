@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": "fabricar",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "enviar",
+        "estado": "terminado"
+    },
+    {
+        "titulo": "recibir",
+        "estado": "en progreso"
+    }
+]
